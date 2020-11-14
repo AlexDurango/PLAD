@@ -93,3 +93,5 @@ python PLAD.py -h
 Please let me know if there is a bug or some update that you would like to see. You can let me know the issue here on GitHub or send a mail to:
 
 alex.durango2303@gmail.com
+
+This software uses MIT License.
